@@ -10,4 +10,10 @@ function add(a:number,b:number):string{
     return c+d
   }
   console.log(arrfun(10,10))
+
+// type arrtype=(a:string,b:string)=>string;
+
+// const arr:arrtype=(a,b)=>{
+//     return a+b
+// }
   
